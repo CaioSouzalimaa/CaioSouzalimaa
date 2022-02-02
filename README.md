@@ -1,3 +1,4 @@
+## Oi! eu sou o Caio Souza, sou um estudante de programação e analise de dados.
 <div align="center">
   <a href="https://github.com/CaioSouzalimaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioSouzalimaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -13,8 +14,6 @@
 
   <!---<img align="right" alt="" height="150" style="border-radius:50px;" src=""> -->
 </div> 
-  
- ##
   
 <div> 
 
