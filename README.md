@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSouzalimaa&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-## Tecnologias que possuo experiência e estou estudando
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
@@ -14,6 +14,8 @@
 
   <!---<img align="right" alt="" height="150" style="border-radius:50px;" src=""> -->
 </div> 
+  
+ ##
   
 <div> 
 
