@@ -1,9 +1,10 @@
 ## Oi! eu sou o Caio Souza Lima, atualmente estou estudando React.
+![Profile views](https://gpvc.arturio.dev/CaioSouzalimaa)
 
 <div align="center">
   <a href="https://github.com/CaioSouzalimaa">
 </div>
-
+  
 ## Principais Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
@@ -43,3 +44,4 @@
   ![Snake animation](https://github.com/CaioSouzalimaa/CaioSouzalimaa/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
