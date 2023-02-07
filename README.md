@@ -1,11 +1,11 @@
-## Oi! eu sou o Caio Souza Lima, atualmente estou estudando React.
+## Hi I'm Caio a React enthusiast, I'm starting to learn flutter and how to apply DDD methodology in my projects
 ![Profile views](https://gpvc.arturio.dev/CaioSouzalimaa)
 
 <div align="center">
   <a href="https://github.com/CaioSouzalimaa">
 </div>
   
-## Principais Tecnologias
+## Core technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
@@ -21,18 +21,6 @@
 
   <!---<img align="right" alt="" height="150" style="border-radius:50px;" src=""> -->
 </div> 
-
-## Tecnologias que tenho interesse
-<div style="display: inline_block"><br>
- <img align="center" alt="PowerBI" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
- <img align="center" alt="Wordpress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
-
-
-
-  
-  
-  
-</div>
   
  ##
   
