@@ -1,5 +1,4 @@
 ## Hi I'm Caio a React enthusiast, I'm starting to learn flutter and how to apply DDD methodology in my projects
-![Profile views](https://gpvc.arturio.dev/CaioSouzalimaa)
 
 <div align="center">
   <a href="https://github.com/CaioSouzalimaa">
