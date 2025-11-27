@@ -1,4 +1,4 @@
-## Hi I'm Caio a React enthusiast, I'm starting to learn flutter and how to apply DDD methodology in my projects
+## Hello! I'm Caio, a Fullstack Developer proficient in React (Frontend), and C#, ASP.NET, and Node.js (Backend). I seek to create scalable and easy-to-maintain applications, actively applying the principles of DDD (Domain-Driven Design). 💻
 
 <div align="center">
   <a href="https://github.com/CaioSouzalimaa">
